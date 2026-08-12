@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# PlatformIO
+.pio/
+
+# Editor/OS files
+.vscode/
+.DS_Store
+Thumbs.db
